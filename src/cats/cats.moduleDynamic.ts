@@ -1,3 +1,5 @@
+/*This module an exmple for dynamic module who can include in this project but
+not uses because no usage can be find currently*/
 import { DynamicModule, Module } from '@nestjs/common';
 import { CatsController } from './cats.controller';
 import { CatsService } from './cats.service';
