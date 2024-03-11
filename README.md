@@ -21,6 +21,11 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+## Intro
+As part of a nest project, I decided to make this site on the theme of "LA PATTE FELINE" a fictiv extensions created in game design
+![image](https://github.com/PaulSenecal/senecal-project/assets/102356707/8da8e81c-eb78-4857-b13a-4e622a1ccf73)
+![image](https://github.com/PaulSenecal/senecal-project/assets/102356707/ffd359d4-af4c-4077-b832-a1b58269c51f)
+![image](https://github.com/PaulSenecal/senecal-project/assets/102356707/b44a449e-8016-4ee2-9a89-17dcb39cff03)
 
 ## Description
 
