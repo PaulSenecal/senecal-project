@@ -1,4 +1,5 @@
 <p align="center">
+  <h1>La Patte Feline</h1>
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
@@ -22,9 +23,8 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 ## Intro
-As part of a nest project, I decided to make this site on the theme of "LA PATTE FELINE" a fictiv extensions created in game design
 
-
+As part of a nest project, I decided to make this site on the theme of "LA PATTE FELINE" a fictiv extensions created in game design:
 ![b](https://github.com/PaulSenecal/senecal-project/assets/102356707/696d6f64-1edc-49a4-9267-00d55aac38aa)
 ![c](https://github.com/PaulSenecal/senecal-project/assets/102356707/67f29cf7-44ab-4859-ac08-8aabb032a123)
 ![a](https://github.com/PaulSenecal/senecal-project/assets/102356707/75fdaa9d-6ba3-496f-94f6-495749af6ead)
